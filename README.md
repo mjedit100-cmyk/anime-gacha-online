@@ -10,12 +10,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mjedit100-cmyk/ago-desktop-releases/releases/latest"><img src="https://img.shields.io/github/v/release/mjedit100-cmyk/ago-desktop-releases?style=for-the-badge&label=Latest&color=7c6af7" alt="Latest release" /></a>
+  <a href="https://github.com/mjedit100-cmyk/anime-gacha-online/releases/latest"><img src="https://img.shields.io/github/v/release/mjedit100-cmyk/anime-gacha-online?style=for-the-badge&label=Latest&color=7c6af7" alt="Latest release" /></a>
   <img src="https://img.shields.io/badge/Platform-Windows-111827?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/mjedit100-cmyk/ago-desktop-releases/releases/latest"><strong>⬇ Download the latest Setup.exe</strong></a>
+  <a href="https://github.com/mjedit100-cmyk/anime-gacha-online/releases/latest"><strong>⬇ Download the latest Setup.exe</strong></a>
 </p>
 
 ---
@@ -46,7 +46,7 @@ Built for the kind of player who wants:
 
 ## Get playing (Windows)
 
-1. Open the **[latest release](https://github.com/mjedit100-cmyk/ago-desktop-releases/releases/latest)**
+1. Open the **[latest release](https://github.com/mjedit100-cmyk/anime-gacha-online/releases/latest)**
 2. Download **`Anime-Gacha-Online-Setup-….exe`**
 3. Install → launch from desktop / Start Menu
 4. First boot shows a short **client gate** (update check), then you’re in
@@ -68,7 +68,7 @@ The desktop client checks this releases page for `latest.yml` + the Setup packag
 ## Good to know
 
 - **Windows** desktop app
-- Need an older build? Browse **[all releases](https://github.com/mjedit100-cmyk/ago-desktop-releases/releases)**
+- Need an older build? Browse **[all releases](https://github.com/mjedit100-cmyk/anime-gacha-online/releases)**
 
 ---
 
