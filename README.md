@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <img src="media/hero.png" alt="Anime Gacha Online" width="920" />
 </p>
 
@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Summon legends. Forge traits. Own the lobby.</strong><br/>
-  A flashy anime gacha you play as a real Windows desktop app — not a lonely browser tab.
+  A flashy anime gacha you play as a real Windows desktop app - not a lonely browser tab.
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mjedit100-cmyk/anime-gacha-online/releases/latest"><strong>⬇ Download the latest Setup.exe</strong></a>
+  <a href="https://github.com/mjedit100-cmyk/anime-gacha-online/releases/latest"><strong>Download the latest Setup.exe</strong></a>
 </p>
 
 ---
@@ -32,14 +32,14 @@ Built for the kind of player who wants:
 
 ---
 
-## What’s in the game
+## What's in the game
 
 | Pillar | The vibe |
 | --- | --- |
 | **Summon** | Classic multi-banner pulls, pity, featured rotations, Eminence exclusives |
 | **Traits & Familiars** | Roll power onto units; familiars are star-rated copies you equip |
 | **Story & Battles** | Campaign progress, card combat, training sandpit for kit tests |
-| **AFK Chamber** | Park a unit, come back to coins and drip — Burnice BGV energy |
+| **AFK Chamber** | Park a unit, come back to coins and drip - Burnice BGV energy |
 | **Events & Mail** | Limited modes, inbox gifts, wiki codes for the culture |
 
 ---
@@ -48,10 +48,24 @@ Built for the kind of player who wants:
 
 1. Open the **[latest release](https://github.com/mjedit100-cmyk/anime-gacha-online/releases/latest)**
 2. Download **`Anime-Gacha-Online-Setup-….exe`**
-3. Install → launch from desktop / Start Menu
-4. First boot shows a short **client gate** (update check), then you’re in
+3. Install, then launch from desktop / Start Menu
+4. First boot shows a short **client gate** (update check), then you're in
 
-Already installed? Just launch the app — if a newer build exists, the gate downloads it before the lobby opens.
+Already installed? Just launch the app - if a newer build exists, the gate downloads it before the lobby opens.
+
+---
+
+## Windows warning? Don't panic
+
+If Windows SmartScreen or your antivirus says the installer is unrecognized, **that does not mean this is a virus**.
+
+This is a normal warning for a new indie desktop game that isn't using a paid publisher certificate yet. The build is the official Anime Gacha Online Setup from this page.
+
+1. Click **More info**
+2. Click **Run anyway**
+3. Finish install and play
+
+Only download the Setup from **this official page** (or the Releases tab here) - not random reuploads.
 
 ---
 
@@ -76,4 +90,3 @@ The desktop client checks this releases page for `latest.yml` + the Setup packag
   <em>Pull once. Pull twice. Blame the pity.</em><br/>
   <sub>Anime Gacha Online · MJdev</sub>
 </p>
-
