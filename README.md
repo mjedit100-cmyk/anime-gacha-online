@@ -82,6 +82,7 @@ The desktop client checks this releases page for `latest.yml` + the Setup packag
 ## Good to know
 
 - **Windows** desktop app
+- Uninstall asks whether to **Keep** your save or **Wipe** it (updates never wipe)
 - Need an older build? Browse **[all releases](https://github.com/mjedit100-cmyk/anime-gacha-online/releases)**
 
 ---
