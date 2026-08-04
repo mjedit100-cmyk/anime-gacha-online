@@ -11,7 +11,6 @@
 
 <p align="center">
   <a href="https://github.com/mjedit100-cmyk/ago-desktop-releases/releases/latest"><img src="https://img.shields.io/github/v/release/mjedit100-cmyk/ago-desktop-releases?style=for-the-badge&label=Latest&color=7c6af7" alt="Latest release" /></a>
-  <a href="https://github.com/mjedit100-cmyk/ago-desktop-releases/releases/latest"><img src="https://img.shields.io/github/downloads/mjedit100-cmyk/ago-desktop-releases/total?style=for-the-badge&label=Downloads&color=c084fc" alt="Downloads" /></a>
   <img src="https://img.shields.io/badge/Platform-Windows-111827?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </p>
 
