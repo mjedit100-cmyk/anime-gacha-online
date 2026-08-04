@@ -31,8 +31,6 @@ Built for the kind of player who wants:
 - Units that actually feel different once you kit them
 - A desktop client that **updates itself** so you stay on the live build
 
-This repo is the **public download / update feed** — installers and updater files only.
-
 ---
 
 ## What’s in the game
@@ -70,9 +68,7 @@ The desktop client checks this releases page for `latest.yml` + the Setup packag
 
 ## Good to know
 
-- **Windows desktop** installers live here
-- **No game source code** in this repository (on purpose)
-- The “Source code” zip GitHub adds to releases is only this tiny public repo (README / media) — not the game
+- **Windows** desktop app
 - Need an older build? Browse **[all releases](https://github.com/mjedit100-cmyk/ago-desktop-releases/releases)**
 
 ---
@@ -81,3 +77,4 @@ The desktop client checks this releases page for `latest.yml` + the Setup packag
   <em>Pull once. Pull twice. Blame the pity.</em><br/>
   <sub>Anime Gacha Online · MJdev</sub>
 </p>
+
