@@ -11,6 +11,12 @@
   <a href="https://mjedit100-cmyk.github.io/anime-gacha-online/updates.html"><strong>What’s new</strong></a>
 </p>
 
+<p align="center">
+  <img src="https://mjedit100-cmyk.github.io/anime-gacha-online/media/tt-star.jpg" alt="TRENCH & THUNDER" width="280" />
+  &nbsp;
+  <img src="https://mjedit100-cmyk.github.io/anime-gacha-online/media/ago-star.jpg" alt="Anime Gacha Online" width="280" />
+</p>
+
 ---
 
 ## This page is downloads only
